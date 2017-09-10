@@ -4,7 +4,7 @@ html, body {
 
 body {
 	background: #EEEEEE;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Kanit', sans-serif;
 }
 
 dl.hidden,
@@ -13,7 +13,7 @@ div.time.hidden {
 }
 
 input, select, textarea, button {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Kanit', sans-serif;
 }
 
 button {
